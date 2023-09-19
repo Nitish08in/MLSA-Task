@@ -19,9 +19,10 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Mern-stack.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books and laptop with mern stack written on it";
+
 
 /**
  * Project list
@@ -31,28 +32,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Facebook Clone Login Page",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Facebook login-page clone. I made this very basic and simple HTML and CSS project which has created a clone of Facebook Login Page of www.facebook.com.",
+    url: "https://1bkykp.csb.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Devtown Webpage using React",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a web page displaying information about devtown and front-end development that I completed in bootcamp using HTML, CSS, Javascript, and React. js.",
+    url: "https://jn87g2.csb.app/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://nitish08in.github.io/My-Resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Python TicTacToe",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This code creates a 3x3 Tic Tac Toe game with a GUI using Tkinter in Python. It allows two players to take turns placing their markers and checks for a winner or a tie after each turn.",
+      url: "https://github.com/Nitish08in/Python-TicTacToe-23.git",
   },
 ];
 
